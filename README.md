@@ -32,7 +32,7 @@ I love anything about technology, and I love trying new things
 
 
 <!--
-**thxrhmn/thxrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rikypurnomo/Rikypurnomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,3 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rikypurnomo&show_icons=true&locale=en&layout=compact" alt="imtiyazcode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rikypurnomo&" alt="imtiyazcode" /></p>
