@@ -12,9 +12,9 @@
 I love anything about technology, and I love trying new things
 
 ## 🌱 I’m currently learning 
-- NextJS
-- Typescript
-- ExpressJS
+- Larevel
+- VueJS
+- .Net
 
 ## 💼 Technical Skills
 
