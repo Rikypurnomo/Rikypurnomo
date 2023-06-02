@@ -9,7 +9,9 @@
 
 I love anything about technology, and I love trying new things
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rikypurnomo&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazcode" /> </p>
-
+<details align="center">
+ <summary><samp>click, explore.</samp></summary>
+ 
 ## 🌱 I’m currently learning 
 - Larevel
 - VueJS
@@ -49,4 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</details>
