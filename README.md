@@ -7,8 +7,8 @@
 
 I love anything about technology, and I love trying new things
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rikypurnomo&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazcode" /> </p>
-<details align="center">
-  <summary><samp style="font-size: 20px;">click, explore.</samp></summary>
+<details align="center" &logoColor=white>
+  <summary><samp >click, explore.</samp></summary>
 
  
 ## 🌱 I’m currently learning 
