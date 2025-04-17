@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm <a href="https://rikypurnomo.vercel.app//">Riky Purnomo </h1>
+<h1 align="center">Hi 👋, I'm <a href="https://rikypurnomo.vercel.app//">Riky Purnomo</a></h1>
 <h3 align="center">I'm Fullstack Developer</h3>
-
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+I love anything about technology, and I love trying new things.
 
-I love anything about technology, and I love trying new things
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rikypurnomo&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazcode" /> </p>
-<details align="center" >
- <summary ><samp > 😄 click, explore.</samp></summary>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rikypurnomo&label=Profile%20views&color=0e75b6&style=flat" alt="Rikypurnomo" />
+</p>
 
- 
+<details align="center">
+  <summary><samp> 😄 click, explore.</samp></summary>
+
 ## 🌱 I’m currently learning 
-- Larevel
+- Laravel
 - VueJS
-- .Net
+- .NET
 
 ## 💼 Technical Skills
 
@@ -29,26 +30,4 @@ I love anything about technology, and I love trying new things
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📈 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rikypurnomo&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rikypurnomo&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rikypurnomo&theme=tokyonight)
-
-
-<!--
-**Rikypurnomo/Rikypurnomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</details>
+![Postgres](https://img.shields
